@@ -1,5 +1,5 @@
 #!/bin/sh
-install_list="${0:-install_pkg.lst}"
+install_list="${1:-install_pkg.lst}"
 
 while read pkg; do
     echo "Fake installing: ${pkg}"
