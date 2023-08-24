@@ -1,0 +1,15 @@
+pipewire
+pipewire-alsa
+pipewire-audio
+pipewire-jack
+pipewire-pulse
+gst-plugin-pipewire
+wireplumber
+networkmanager
+network-manager-applet
+bluez
+bluez-utils
+blueman
+brightnessctl
+
+neofetch\n
